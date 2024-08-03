@@ -1,2 +1,1 @@
-# bocc
-Bayesian Optimization for Chemical Conditions
+# BOCC: Bayesian Optimization for Chemical Conditions
